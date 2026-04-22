@@ -8,7 +8,7 @@ export default function Home() {
       <section className="hero">
         <div className="container hero-inner">
           <div className="hero-text">
-            <span className="badge badge-primary" style={{ marginBottom: 16 }}>New Collection 2024</span>
+            <span className="badge badge-primary" style={{ marginBottom: 16 }}>New Collection 2026</span>
             <h1 className="hero-title">Discover Premium Products</h1>
             <p className="hero-subtitle">Shop the latest trends with exclusive deals and fast delivery worldwide.</p>
             <div className="hero-actions">

@@ -20,7 +20,7 @@ export default function MainLayout({ children }) {
           {children}
         </main>
         <footer style={{ padding: '32px 0', borderTop: '1px solid var(--border)', marginTop: 60, textAlign: 'center', color: 'var(--text-muted)', fontSize: 14 }}>
-          © 2024 ShopFlow — All rights reserved
+          © 2026 ShopFlow — All rights reserved
         </footer>
         <Toast toasts={toasts} />
       </div>
